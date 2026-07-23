@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação Junior`**
 
-Me chamo Matheus Cavalcanti Vital de Sousa, tenho 18 anos e sou natural de São Paulo. Formado em técnico de Desenvolvimento de Sistemas na Etec Rodrigues de abreu, em Bauru. Atuo como auxiliar de TI. Sou apaixonado por tecnologia e estou em busca de iniciar minha carreira como desenvolvedor Junior.
+Me chamo Matheus Cavalcanti Vital de Sousa, tenho 18 anos e sou natural de São Paulo. Formado em técnico de Desenvolvimento de Sistemas na Etec Rodrigues de abreu, em Bauru. Atuo como auxiliar de TI e, curso atualmente Engenharia de software pela ITE, em bauru. 
 
 ---
 
